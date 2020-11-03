@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scratch Files for practicing code", "Scratch Files for practicing code\Scratch Files for practicing code.csproj", "{3E6E0E4E-C548-48B7-9C04-679059955353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6E0E4E-C548-48B7-9C04-679059955353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6E0E4E-C548-48B7-9C04-679059955353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6E0E4E-C548-48B7-9C04-679059955353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6E0E4E-C548-48B7-9C04-679059955353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B38F3F2E-515D-4C28-BB2F-FAE72D17E0B3}
+	EndGlobalSection
+EndGlobal

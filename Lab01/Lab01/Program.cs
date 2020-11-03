@@ -12,7 +12,8 @@ namespace Lab01
         {            // Tells C# to write this string in the console
             Console.WriteLine("Hello World from Mustafa Muhammad");
                      // Tells computer to wait after it is finished printing - (Let me read it then I will close it)
-            Console.ReadLine();
+            Console.ReadLine();bool 
+
         }
     }
 }
